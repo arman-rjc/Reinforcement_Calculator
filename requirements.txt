@@ -2,3 +2,4 @@ mljar-mercury
 matplotlib
 forallpeople
 Handcalcs 
+math
